@@ -1,0 +1,16 @@
+Required
+
+-Gokart.  https://www.segway.com/ninebot-gokart-pro/
+-Arduino Uno https://store-usa.arduino.cc/products/arduino-uno-rev3?gclid=CjwKCAjw4ZWkBhA4EiwAVJXwqa0YzET47iNvqroi__vNuijp70OphZz5Q4WCRac3bMxoRok7ExZAPBoCnTsQAvD_BwE
+-Stepper motor and driver. https://www.amazon.com/Twotrees-Stepper-Driver-TB6600-Controller/dp/B07PNZRPQH/ref=sr_1_16_sspa?crid=1VW8NUTU0U9CZ&keywords=stepper+motor+kit&qid=1686533638&sprefix=stepper+motor+kit%2Caps%2C89&sr=8-16-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&psc=1
+-Batteryhttps://www.amazon.com/ML7-12-Battery-Mighty-Brand-Product/dp/B00K8V30D0/ref=sr_1_5?crid=3B3EDEA6HIK0J&keywords=12v+battery&qid=1686533936&sprefix=12v+%2Caps%2C104&sr=8-5
+Be sure that this battery is specced for your motor and driver.
+-Jumper wires https://www.amazon.com/TOAPPNER-Multicolored-Breadboard-Arduino-Raspberry/dp/B089FZ79CS/ref=sr_1_3?crid=22GUM1KOTNSI3&keywords=jumper+wire+kit+12+inch&qid=1686534054&sprefix=jumper+wire+kit+12+inch%2Caps%2C94&sr=8-3
+-Something to secure steering wheel or steering column to stepper motor
+
+Not required but makes everything much more secure and easier to work with
+
+-Arduino shield https://www.amazon.com/Terminal-Breakout-Shield-Module-Arduino/dp/B08LH5TCM5/ref=sr_1_15_sspa?hvadid=570507784555&hvdev=c&hvlocphy=9009738&hvnetw=g&hvqmt=e&hvrand=5547109735261789567&hvtargid=kwd-37511411457&hydadcr=18009_13462286&keywords=arduino+uno+shields&qid=1686533444&sr=8-15-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&psc=1
+
+-laptop stand https://www.amazon.com/UPGRAVITY-Computer-Notebook-Heavy-Duty-Adjustable/dp/B09Y1H1N1L/ref=sr_1_3?crid=VEZ1SCYB0XUL&keywords=laptop+stand+clip+to+desk&qid=1686533550&sprefix=laptop+stand+clip+t%2Caps%2C96&sr=8-3
+I used this laptop stand but there may be a better way to secure it.  
